@@ -46,9 +46,6 @@ Key metrics include:
 - Gained insights into hotel **cancellation policies** and their revenue impact.
 - Mastered using **bookmarks and selections** for page navigation in PowerBI.
 
-## Interactive Dashboard 🌐
-Explore the interactive dashboard here: **[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjZjM2NhYzctYmUxMy00YzgwLWIwYzEtY2Y1ZjdhNjE0NmFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**.
-
 ## Connect with Me 💬
 Feel free to reach out with any questions or to connect further!
 
